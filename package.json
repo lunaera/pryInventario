@@ -1,20 +1,19 @@
 {
   "name": "pryinventario",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Erahin",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/erahin/pryPapeleria.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/erahin/pryPapeleria/issues"
   },
-  "homepage": "https://github.com/erahin/pryPapeleria#readme",
-  "description": ""
+  "homepage": "https://github.com/erahin/pryPapeleria#readme"
 }
