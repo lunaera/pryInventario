@@ -1,0 +1,33 @@
+#imgHead {
+  width: 100%; /* Hace que la imagen ocupe el 100% del ancho de su contenedor */
+  height: auto; /* Mantiene la proporción original de la imagen */
+  display: block; /* Asegura que la imagen sea un bloque para ocupar todo el ancho disponible */
+}
+
+.container.frmLogin {
+  width: 25%;
+  max-width: 60%;
+}
+
+.rounded.mx-auto.d-block.imgLogin {
+  width: 40%;
+  max-width: 50%;
+  height: auto;
+}
+
+.fielsetAddProducts {
+  width: 70%;
+}
+
+.txtLegend {
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  background-color: blueviolet;
+  margin-top: 2%;
+  color: aliceblue;
+  font-weight: bold;
+}
